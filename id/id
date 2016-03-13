@@ -1,0 +1,1772 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html class="ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html class="ie-ok"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Idaho Domestic Violence Help, Programs and Statistics</title>
+  <meta name="environment" content="production">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+  <meta name="google-site-verification" content="Bisrvv2AChk4R_ZKG0yZ_MsgkfBXLgMjQqs3FlBk--E" />
+  <link href="/assets/application-021b3a51bfb6629d8315aa29b7947bb7.css" media="all" rel="stylesheet" />
+  <link href="/assets/print-f43094f19922f6790009f00983094641.css" media="print" rel="stylesheet" />
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="Inn5PRAYFTDoLwjVBxBEpQm41BG5Ml9I4PG0mBtJpaw=" name="csrf-token" />
+  <link href="/domestic-violence-articles-information/feed" rel="alternate" title="RSS" type="application/rss+xml" />
+  <meta content="DomesticShelters.org" property="og:site_name" />
+  <meta name="viewport" content="initial-scale=1">
+  <meta content="Idaho Domestic Violence Help, Programs and Statistics" name="title" />
+  <meta content="Find help and statistics for Idaho`s 35 domestic violence programs located in 21 cities that provide help for dealing with domestic abuse." name="description" />
+  
+  <meta name="theme-color" content="#be2c99">
+  <meta name="msapplication-navbutton-color" content="#be2c99">
+  <meta name="apple-mobile-web-app-status-bar-style" content="#be2c99">
+  <!--[if lt IE 9]>
+  <script src="/javascripts/html5shiv.min.js"></script>
+  <script src="/javascripts/selectivizr-min.js"></script>
+  <![endif]-->
+  <script src="https://use.typekit.net/mhw0uzi.js"></script>
+  <script>try{Typekit.load({ async: true });}catch(e){}</script>
+  <link href="//netdna.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.css" rel="stylesheet">
+  <style>
+    @media screen and (-webkit-min-device-pixel-ratio:0) {
+      @font-face {
+          font-family: 'FontAwesome';
+          src: url('//netdna.bootstrapcdn.com/font-awesome/4.4.0/fonts/fontawesome-webfont.svg') format('svg');;
+      }
+    }
+  </style>
+  <link href="/images/favicon.png" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <!--[if gte IE 9]>
+    <style type="text/css">
+      .gradient {
+        filter: none;
+      }
+    </style>
+  <![endif]-->
+  <!--[if IE 9]>
+    <link href="/assets/ie9-4706a1b657610966df9ddf45903e40b0.css" media="screen" rel="stylesheet" />
+  <![endif]-->
+  <!--[if (gte IE 6)&(lte IE 8)]>
+    <script src="/javascripts/selectivizr-min.js"></script>
+  <![endif]-->
+  <script type="text/javascript">
+    window.DS = {
+      routes: {
+        update_metric_path: "/locations/update_metric",
+        compare_locations_path: "/locations/compare",
+        surveys_path: "/domestic-violence-surveys"
+      }
+    };
+  </script>
+  
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-47346704-1', 'auto');
+    ga('require', 'displayfeatures');
+    ga('send', 'pageview');
+  </script>
+
+  <script type='text/javascript'>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+      var gads = document.createElement('script');
+      gads.async = true;
+      gads.type = 'text/javascript';
+      var useSSL = 'https:' == document.location.protocol;
+      gads.src = (useSSL ? 'https:' : 'http:') +
+        '//www.googletagservices.com/tag/js/gpt.js';
+      var node = document.getElementsByTagName('script')[0];
+      node.parentNode.insertBefore(gads, node);
+    })();
+  </script>
+
+  <meta name="p:domain_verify" content="3a4f5cca447d0033ec91f9e2c1c0546a"/>
+
+  <script>
+  var $buoop = {vs:{i:8,f:25,o:12.1,s:7},c:2};
+  function $buo_f(){
+   var e = document.createElement("script");
+   e.src = "//browser-update.org/update.min.js";
+   document.body.appendChild(e);
+  };
+  try {document.addEventListener("DOMContentLoaded", $buo_f,false)}
+  catch(e){window.attachEvent("onload", $buo_f)}
+</script>
+</head>
+<body class="state_pages show">
+  <div id="fb-root"></div>
+   <script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '1575573819381082',
+      xfbml      : true,
+      version    : 'v2.3'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+
+    <div id="mobile-nav" class="clearfix mobile-only">
+  <div class="search">
+    <input type="search" data-bind="value: q" class="search-input js-geocomplete" placeholder="Enter your address, zip, city...">
+    <a data-bind="click: findLocation" class="my-location"><i class="fa fa-map-marker"></i></a>
+    <a data-bind="click: search" class="search-button btn btn2"><i class="fa fa-search"></i></a>
+  </div>
+
+      <ul>
+          <li>
+            <a href="/search#?&advanced=true">Find</a>
+          </li>
+          <li>
+            <a href="/domestic-violence-articles-information">Articles</a>
+          </li>
+            <li>
+              <a href="/national-global">National/Global</a>
+            </li>
+            <li>
+              <a href="/online-forums-and-chats">Online Forums/Chats</a>
+            </li>
+              <li><a href="/domestic-violence-books">Recommended Books</a></li>
+            <li>
+              <a href="/domestic-violence-sexual-assault-state-coalitions">State Coalitions</a>
+            </li>
+          <li><a href="/domestic-violence-lists">Lists</a></li>
+          <li><a href="/domestic-violence-statistics">Statistics</a></li>
+          <li><a href="/domestic-violence-surveys">Surveys</a></li>
+          <li><a href="/widgets">Widgets</a></li>
+          <li>
+            <a href="/fundraisers">Donate</a>
+          </li>
+          <li><a href="/login">Login</a></li>
+      </ul>
+</div>
+
+  <div class="viewport clearfix">
+    <div class="container">
+      <header class="clearfix top-header">
+  <div class="content">
+    <a class="logo" href="/">Domestic Shelters</a>
+      <ul class="no-mobile">
+        <li>
+          <a href="/search#?&advanced=true">Find</a>
+        </li>
+        <li>
+          <a class="head-resources sub-nav" href="#">Resources <i class="fa fa-caret-down"></i></a>
+          <ul>
+            <li>
+              <a href="/domestic-violence-articles-information">Articles</a>
+            </li>
+              <li>
+                <a href="/national-global">National/Global</a>
+              </li>
+              <li>
+                <a href="/online-forums-and-chats">Online Forums/Chats</a>
+              </li>
+                <li><a href="/domestic-violence-books">Recommended Books</a></li>
+              <li>
+                <a href="/domestic-violence-sexual-assault-state-coalitions">State Coalitions</a>
+              </li>
+            <li><a href="/domestic-violence-lists">Lists</a></li>
+            <li><a href="/domestic-violence-statistics">Statistics</a></li>
+            <li><a href="/domestic-violence-surveys">Surveys</a></li>
+            <li><a href="/widgets">Widgets</a></li>
+          </ul>
+        </li>
+        <li>
+          <a href="/fundraisers">Donate</a>
+        </li>
+          <li><a href="/login">Login</a></li>
+        <li>
+          <a href="http://www.weather.com/" target="_self" rel="nofollow">Leave Site</a>
+        </li>
+      </ul>
+      <div class="mobile-only mobile-menu">
+        <a href="#mobile-nav" class="expand"><i class="fa fa-bars"></i></a>
+        <a href="http://www.weather.com/" target="_self" rel="nofollow"><i class="fa fa-times"></i></a>
+      </div>
+  </div>
+</header>
+
+
+        <article>
+          <div class="content clearfix">
+            
+
+
+            <div class="state-page">
+  <div class='ad no-mobile'>
+	<div data-gpt="/35461067/leaderboard-782x90" id="div-gpt-ad-1433884905507-0" style="width: 728px; height: 90px; margin: 0 auto;"></div>
+</div>
+
+
+  <div class="bread">
+  <a href="/">Home</a>
+
+    <i class="fa fa-angle-double-right"></i>
+
+    Idaho Domestic Violence Help, Programs and Statistics
+</div>
+
+
+  <div class="cleafix">
+    <div class="main-col box1">
+      <div class="d-pad-30">
+        <h1>Idaho Domestic Violence Help, Programs and Statistics</h1>
+
+        <div class="share">
+          <!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style addthis_16x16_style">
+  <a class="addthis_button_facebook"></a>
+  <a class="addthis_button_twitter"></a>
+  <a class="addthis_button_google_plusone_share"></a>
+  <a class="addthis_button_stumbleupon"></a>
+  <a class="addthis_button_email"></a>
+  <a class="addthis_button_compact"></a><a class="addthis_counter addthis_bubble_style"></a>
+</div>
+<!-- AddThis Button END -->
+          <!-- AddThis Scripts BEGIN -->
+<script type="text/javascript">var addthis_config = {"data_track_addressbar":true,"ui_click": true};</script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-537fda1d7162ee8f" async="async"></script>
+<!-- AddThis Scripts END -->
+        </div>
+      </div>
+
+      <img alt="Idaho" src="/media/W1siZiIsIjIwMTQvMDYvMDUvcm5wd2t5OTM1X3N0YXRlX0lELnBuZyJdLFsicCIsInRodW1iIiwiMTc2MHgxMDY1Il0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXF1YWxpdHkgNzAiXV0/file.jpg?basename=Idaho&amp;sha=381a4138f8225237" />
+
+      <div class=" d-pad-30">
+          <p>There are 35 organizations in Idaho that provide domestic violence services at some level.
+          A total of 23 organizations have provided complete information about their program to this site for a statewide completion rate of 65%. These programs can be found in 21 different cities.</p>
+
+          <p>Click on any of the 21 cities below to learn about the programs in these areas. You’ll also see information further below on categories of service offered in Idaho, and within each category you’ll find the individual services within that category.</p>
+
+            <p>The most common category of service in Idaho – based on the likelihood of each program to offer all the services within a category – is "emergency services", while the least common category of service is "housing services".</p>
+
+            <p>The two most common individual services within any category of service in Idaho are "resources and referrals and court accompaniment/advocacy"  while the two least common services are "mobile advocacy and sex offender counseling".</p>
+
+          <p>
+            Spanish is spoken at 73% of the organizations.
+              The third most common language after English and Spanish is Sign language at 8% of the organizations.
+
+            Demographically, the organizations are mostly like to be equipped to serve Families, Individuals, Adult Male (victim of domestic violence), and Women
+            .</p>
+
+
+          <div class="location-cities" class="clearfix">
+            <h2>Idaho Cities with Domestic Violence Programs</h2>
+            <ul>
+              <li><a href="/id/americanfalls/americanfalls-domestic-violence-program-shelters">Americanfalls</a></li>
+              <li><a href="/id/blackfoot/blackfoot-domestic-violence-program-shelters">Blackfoot</a></li>
+              <li><a href="/id/boise/boise-domestic-violence-program-shelters">Boise</a></li>
+              <li><a href="/id/bonners-ferry/bonners-ferry-domestic-violence-program-shelters">Bonners Ferry</a></li>
+              <li><a href="/id/caldwell/caldwell-domestic-violence-program-shelters">Caldwell</a></li>
+              <li><a href="/id/cascade/cascade-domestic-violence-program-shelters">Cascade</a></li>
+              <li><a href="/id/coeur-d-alene/coeur-d-alene-domestic-violence-program-shelters">Coeur D&#39;alene</a></li>
+              <li><a href="/id/council/council-domestic-violence-program-shelters">Council</a></li>
+              <li><a href="/id/driggs/driggs-domestic-violence-program-shelters">Driggs</a></li>
+              <li><a href="/id/fort-hall/fort-hall-domestic-violence-program-shelters">Fort Hall</a></li>
+              <li><a href="/id/hailey/hailey-domestic-violence-program-shelters">Hailey</a></li>
+              <li><a href="/id/idaho-falls/idaho-falls-domestic-violence-program-shelters">Idaho Falls</a></li>
+              <li><a href="/id/ketchum/ketchum-domestic-violence-program-shelters">Ketchum</a></li>
+              <li><a href="/id/lewiston/lewiston-domestic-violence-program-shelters">Lewiston</a></li>
+              <li><a href="/id/malad/malad-domestic-violence-program-shelters">Malad</a></li>
+              <li><a href="/id/mc-call/mc-call-domestic-violence-program-shelters">Mc Call</a></li>
+              <li><a href="/id/moscow/moscow-domestic-violence-program-shelters">Moscow</a></li>
+              <li><a href="/id/mountain-home/mountain-home-domestic-violence-program-shelters">Mountain Home</a></li>
+              <li><a href="/id/nampa/nampa-domestic-violence-program-shelters">Nampa</a></li>
+              <li><a href="/id/payette/payette-domestic-violence-program-shelters">Payette</a></li>
+              <li><a href="/id/plummer/plummer-domestic-violence-program-shelters">Plummer</a></li>
+              <li><a href="/id/pocatello/pocatello-domestic-violence-program-shelters">Pocatello</a></li>
+              <li><a href="/id/priest-river/priest-river-domestic-violence-program-shelters">Priest River</a></li>
+              <li><a href="/id/rexburg/rexburg-domestic-violence-program-shelters">Rexburg</a></li>
+              <li><a href="/id/rupert/rupert-domestic-violence-program-shelters">Rupert</a></li>
+              <li><a href="/id/salmon/salmon-domestic-violence-program-shelters">Salmon</a></li>
+              <li><a href="/id/sandpoint/sandpoint-domestic-violence-program-shelters">Sandpoint</a></li>
+              <li><a href="/id/twin-falls/twin-falls-domestic-violence-program-shelters">Twin Falls</a></li>
+              <li><a href="/id/wallace/wallace-domestic-violence-program-shelters">Wallace</a></li>
+              <li><a href="/id/weiser/weiser-domestic-violence-program-shelters">Weiser</a></li>
+            </ul>
+          </div>
+
+          <div class="box-cont">
+            <h2>Statistics on Domestic Violence Services in Idaho</h2>
+            <div class="accordion">
+                <div class="js-accordion">
+                  <h3 class="subtle-link js-accordion-expand">
+                  <span class="accordion_left">Emergency Services</span>
+                  <span class="accordion_center bar_mortice_category mortice_tiny_mortice stat-bar-right js-bubble">
+                      <span class="progress" style="width: 68%;"></span>
+                      <span class="js-bubble-content">Comprehensiveness of this service in Idaho scores  68 out of 100</span>
+                    </span>
+                  </h3>
+                  <ul class="clearfix">
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Emergency shelter</div>
+                          <div class="stat-locations js-bubble">22 <span class="no-mobile">locations</span></div>
+                      </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 95%;"></span>
+                          <span class="js-bubble-content">This service is available in 95% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Safety planning</div>
+                          <div class="stat-locations js-bubble">22 <span class="no-mobile">locations</span></div>
+                      </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 95%;"></span>
+                          <span class="js-bubble-content">This service is available in 95% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Domestic violence education</div>
+                          <div class="stat-locations js-bubble">21 <span class="no-mobile">locations</span></div>
+                      </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 91%;"></span>
+                          <span class="js-bubble-content">This service is available in 91% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Emergency cell phones</div>
+                          <div class="stat-locations js-bubble">21 <span class="no-mobile">locations</span></div>
+                      </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 91%;"></span>
+                          <span class="js-bubble-content">This service is available in 91% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Food and clothing</div>
+                          <div class="stat-locations js-bubble">21 <span class="no-mobile">locations</span></div>
+                      </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 91%;"></span>
+                          <span class="js-bubble-content">This service is available in 91% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Crisis intervention services</div>
+                          <div class="stat-locations js-bubble">21 <span class="no-mobile">locations</span></div>
+                      </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 91%;"></span>
+                          <span class="js-bubble-content">This service is available in 91% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Case management</div>
+                          <div class="stat-locations js-bubble">21 <span class="no-mobile">locations</span></div>
+                      </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 91%;"></span>
+                          <span class="js-bubble-content">This service is available in 91% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Danger/lethality assessment</div>
+                          <div class="stat-locations js-bubble">20 <span class="no-mobile">locations</span></div>
+                      </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 86%;"></span>
+                          <span class="js-bubble-content">This service is available in 86% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Confidential shelter location</div>
+                          <div class="stat-locations js-bubble">10 <span class="no-mobile">locations</span></div>
+                      </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 43%;"></span>
+                          <span class="js-bubble-content">This service is available in 43% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Emergency local transportation</div>
+                          <div class="stat-locations js-bubble">6 <span class="no-mobile">locations</span></div>
+                      </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 26%;"></span>
+                          <span class="js-bubble-content">This service is available in 26% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Safe home network</div>
+                          <div class="stat-locations js-bubble">2 <span class="no-mobile">locations</span></div>
+                      </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 8%;"></span>
+                          <span class="js-bubble-content">This service is available in 8% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Mobile advocacy</div>
+                          <div class="stat-locations js-bubble">1 <span class="no-mobile">locations</span></div>
+                      </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 4%;"></span>
+                          <span class="js-bubble-content">This service is available in 4% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                  </ul>
+                </div>
+
+                <div class="js-accordion">
+                  <h3 class="subtle-link js-accordion-expand">
+                  <span class="accordion_left">Legal and Financial Services</span>
+                  <span class="accordion_center bar_mortice_category mortice_tiny_mortice stat-bar-right js-bubble">
+                      <span class="progress" style="width: 47%;"></span>
+                      <span class="js-bubble-content">Comprehensiveness of this service in Idaho scores  47 out of 100</span>
+                    </span>
+                  </h3>
+                  <ul class="clearfix">
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Court accompaniment/advocacy</div>
+                          <div class="stat-locations">22 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 95%;"></span>
+                          <span class="js-bubble-content">This service is available in 95% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Assistance with orders of protection</div>
+                          <div class="stat-locations">21 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 91%;"></span>
+                          <span class="js-bubble-content">This service is available in 91% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Court/legal lay assistance</div>
+                          <div class="stat-locations">19 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 82%;"></span>
+                          <span class="js-bubble-content">This service is available in 82% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Financial empowerment training</div>
+                          <div class="stat-locations">18 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 78%;"></span>
+                          <span class="js-bubble-content">This service is available in 78% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Legal resource planning</div>
+                          <div class="stat-locations">15 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 65%;"></span>
+                          <span class="js-bubble-content">This service is available in 65% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Immigration services</div>
+                          <div class="stat-locations">12 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 52%;"></span>
+                          <span class="js-bubble-content">This service is available in 52% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Attorney referral for protection orders</div>
+                          <div class="stat-locations">8 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 34%;"></span>
+                          <span class="js-bubble-content">This service is available in 34% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Court/legal assistance by attorney</div>
+                          <div class="stat-locations">8 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 34%;"></span>
+                          <span class="js-bubble-content">This service is available in 34% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Legal representation</div>
+                          <div class="stat-locations">7 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 30%;"></span>
+                          <span class="js-bubble-content">This service is available in 30% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Attorney referral for family court</div>
+                          <div class="stat-locations">7 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 30%;"></span>
+                          <span class="js-bubble-content">This service is available in 30% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Legal clinics</div>
+                          <div class="stat-locations">6 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 26%;"></span>
+                          <span class="js-bubble-content">This service is available in 26% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Expert testimony</div>
+                          <div class="stat-locations">6 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 26%;"></span>
+                          <span class="js-bubble-content">This service is available in 26% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Child custody services</div>
+                          <div class="stat-locations">6 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 26%;"></span>
+                          <span class="js-bubble-content">This service is available in 26% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">In-shelter financial aid</div>
+                          <div class="stat-locations">5 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 21%;"></span>
+                          <span class="js-bubble-content">This service is available in 21% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Attorney referral for criminal cases</div>
+                          <div class="stat-locations">5 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 21%;"></span>
+                          <span class="js-bubble-content">This service is available in 21% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                  </ul>
+                </div>
+
+                <div class="js-accordion">
+                  <h3 class="subtle-link js-accordion-expand">
+                  <span class="accordion_left">Counseling Services</span>
+                  <span class="accordion_center bar_mortice_category mortice_tiny_mortice stat-bar-right js-bubble">
+                      <span class="progress" style="width: 71%;"></span>
+                      <span class="js-bubble-content">Comprehensiveness of this service in Idaho scores  71 out of 100</span>
+                    </span>
+                  </h3>
+                  <ul class="clearfix">
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Sexual violence support groups</div>
+                          <div class="stat-locations">17 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 73%;"></span>
+                          <span class="js-bubble-content">This service is available in 73% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Counseling for friends and family</div>
+                          <div class="stat-locations">14 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 60%;"></span>
+                          <span class="js-bubble-content">This service is available in 60% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Peer support groups</div>
+                          <div class="stat-locations">10 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 43%;"></span>
+                          <span class="js-bubble-content">This service is available in 43% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Non-resident counseling</div>
+                          <div class="stat-locations">10 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 43%;"></span>
+                          <span class="js-bubble-content">This service is available in 43% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Incest counseling</div>
+                          <div class="stat-locations">8 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 34%;"></span>
+                          <span class="js-bubble-content">This service is available in 34% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Ritual abuse counseling</div>
+                          <div class="stat-locations">7 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 30%;"></span>
+                          <span class="js-bubble-content">This service is available in 30% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Substance abuse counseling</div>
+                          <div class="stat-locations">7 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 30%;"></span>
+                          <span class="js-bubble-content">This service is available in 30% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Shelter resident counseling</div>
+                          <div class="stat-locations">7 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 30%;"></span>
+                          <span class="js-bubble-content">This service is available in 30% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Counseling for batterers</div>
+                          <div class="stat-locations">6 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 26%;"></span>
+                          <span class="js-bubble-content">This service is available in 26% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Sex offender counseling</div>
+                          <div class="stat-locations">2 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 8%;"></span>
+                          <span class="js-bubble-content">This service is available in 8% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                  </ul>
+                </div>
+
+                <div class="js-accordion">
+                  <h3 class="subtle-link js-accordion-expand">
+                  <span class="accordion_left">Housing Services</span>
+                  <span class="accordion_center bar_mortice_category mortice_tiny_mortice stat-bar-right js-bubble">
+                      <span class="progress" style="width: 45%;"></span>
+                      <span class="js-bubble-content">Comprehensiveness of this service in Idaho scores  45 out of 100</span>
+                    </span>
+                  </h3>
+                  <ul class="clearfix">
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Transportation</div>
+                          <div class="stat-locations">15 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 65%;"></span>
+                          <span class="js-bubble-content">This service is available in 65% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Alternative housing counseling</div>
+                          <div class="stat-locations">15 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 65%;"></span>
+                          <span class="js-bubble-content">This service is available in 65% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Relocation services</div>
+                          <div class="stat-locations">10 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 43%;"></span>
+                          <span class="js-bubble-content">This service is available in 43% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Transitional family housing</div>
+                          <div class="stat-locations">10 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 43%;"></span>
+                          <span class="js-bubble-content">This service is available in 43% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Transitional individual housing</div>
+                          <div class="stat-locations">10 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 43%;"></span>
+                          <span class="js-bubble-content">This service is available in 43% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Permanent individual housing</div>
+                          <div class="stat-locations">7 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 30%;"></span>
+                          <span class="js-bubble-content">This service is available in 30% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Permanent family housing</div>
+                          <div class="stat-locations">7 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 30%;"></span>
+                          <span class="js-bubble-content">This service is available in 30% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                  </ul>
+                </div>
+
+                <div class="js-accordion">
+                  <h3 class="subtle-link js-accordion-expand">
+                  <span class="accordion_left">Support Services</span>
+                    <span class="accordion_center bar_mortice_category mortice_tiny_mortice stat-bar-right js-bubble">
+                      <span class="progress" style="width: 58%;"></span>
+                      <span class="js-bubble-content">Comprehensiveness of this service in Idaho scores  58 out of 100</span>
+                    </span>
+                  </h3>
+                  <ul class="clearfix">
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Resources and referrals</div>
+                          <div class="stat-locations">23 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 100%;"></span>
+                          <span class="js-bubble-content">This service is available in 100% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Goal planning assistance</div>
+                          <div class="stat-locations">21 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 91%;"></span>
+                          <span class="js-bubble-content">This service is available in 91% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Medical accompaniment</div>
+                          <div class="stat-locations">20 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 86%;"></span>
+                          <span class="js-bubble-content">This service is available in 86% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Parenting skills training</div>
+                          <div class="stat-locations">16 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 69%;"></span>
+                          <span class="js-bubble-content">This service is available in 69% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Health and wellness programs</div>
+                          <div class="stat-locations">13 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 56%;"></span>
+                          <span class="js-bubble-content">This service is available in 56% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Job skills training</div>
+                          <div class="stat-locations">11 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 47%;"></span>
+                          <span class="js-bubble-content">This service is available in 47% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Job search/placement</div>
+                          <div class="stat-locations">9 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 39%;"></span>
+                          <span class="js-bubble-content">This service is available in 39% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Spiritual services</div>
+                          <div class="stat-locations">7 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 30%;"></span>
+                          <span class="js-bubble-content">This service is available in 30% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Onsite mental health services</div>
+                          <div class="stat-locations">7 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 30%;"></span>
+                          <span class="js-bubble-content">This service is available in 30% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Onsite medical services</div>
+                          <div class="stat-locations">4 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 17%;"></span>
+                          <span class="js-bubble-content">This service is available in 17% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Pet Shelter</div>
+                          <div class="stat-locations">3 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 13%;"></span>
+                          <span class="js-bubble-content">This service is available in 13% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                  </ul>
+                </div>
+
+                <div class="js-accordion">
+                  <h3 class="subtle-link js-accordion-expand">
+                  <span class="accordion_left">Children's Services</span>
+                  <span class="accordion_center bar_mortice_category mortice_tiny_mortice stat-bar-right js-bubble">
+                      <span class="progress" style="width: 30%;"></span>
+                      <span class="js-bubble-content">Comprehensiveness of this service in Idaho scores  30 out of 100</span>
+                    </span>
+                  </h3>
+                  <ul class="clearfix">
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Safety planning for children</div>
+                          <div class="stat-locations">16 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 69%;"></span>
+                          <span class="js-bubble-content">This service is available in 69% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Youth counseling</div>
+                          <div class="stat-locations">11 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 47%;"></span>
+                          <span class="js-bubble-content">This service is available in 47% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Educational programs</div>
+                          <div class="stat-locations">9 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 39%;"></span>
+                          <span class="js-bubble-content">This service is available in 39% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Child care during support groups</div>
+                          <div class="stat-locations">9 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 39%;"></span>
+                          <span class="js-bubble-content">This service is available in 39% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Teen activity program</div>
+                          <div class="stat-locations">8 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 34%;"></span>
+                          <span class="js-bubble-content">This service is available in 34% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Child abuse services</div>
+                          <div class="stat-locations">8 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 34%;"></span>
+                          <span class="js-bubble-content">This service is available in 34% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">School liaison</div>
+                          <div class="stat-locations">7 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 30%;"></span>
+                          <span class="js-bubble-content">This service is available in 30% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Art/music therapy</div>
+                          <div class="stat-locations">6 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 26%;"></span>
+                          <span class="js-bubble-content">This service is available in 26% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Summer camp</div>
+                          <div class="stat-locations">6 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 26%;"></span>
+                          <span class="js-bubble-content">This service is available in 26% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Pet therapy</div>
+                          <div class="stat-locations">5 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 21%;"></span>
+                          <span class="js-bubble-content">This service is available in 21% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Tutoring services</div>
+                          <div class="stat-locations">5 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 21%;"></span>
+                          <span class="js-bubble-content">This service is available in 21% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Daycare facility</div>
+                          <div class="stat-locations">5 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 21%;"></span>
+                          <span class="js-bubble-content">This service is available in 21% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Child development</div>
+                          <div class="stat-locations">5 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 21%;"></span>
+                          <span class="js-bubble-content">This service is available in 21% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">After school programs</div>
+                          <div class="stat-locations">4 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 17%;"></span>
+                          <span class="js-bubble-content">This service is available in 17% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Onsite schooling</div>
+                          <div class="stat-locations">4 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 17%;"></span>
+                          <span class="js-bubble-content">This service is available in 17% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Onsite pediatric forensic nurse exams</div>
+                          <div class="stat-locations">3 <span class="no-mobile">locations</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 13%;"></span>
+                          <span class="js-bubble-content">This service is available in 13% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                  </ul>
+                </div>
+
+                <div class="js-accordion">
+                  <h3 class="subtle-link js-accordion-expand">
+                  <span class="accordion_left">Community Education Services</span>
+                  <span class="accordion_center bar_mortice_category mortice_tiny_mortice stat-bar-right js-bubble">
+                      <span class="progress" style="width: 67%;"></span>
+                      <span class="js-bubble-content">This service is available in 67% of fully reporting locations in Idaho</span>
+                      <span class="js-bubble-content">Comprehensiveness of this service in Idaho scores  67 out of 100</span>
+                    </span>
+                  </h3>
+                  <ul class="clearfix">
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Domestic violence workshops</div>
+                          <div class="stat-locations">17 <span class="no-mobile">programs</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 73%;"></span>
+                          <span class="js-bubble-content">This service is available in 73% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="stat">
+                          <div class="stat-title">Speaker&#39;s bureau</div>
+                          <div class="stat-locations">14 <span class="no-mobile">programs</span></div>
+                        </div>
+                        <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                          <span class="progress" style="width: 60%;"></span>
+                          <span class="js-bubble-content">This service is available in 60% of fully reporting locations in Idaho</span>
+                        </div>
+                      </li>
+                  </ul>
+                </div>
+            </div>
+         </div>
+
+        <div class="box-cont">
+          <h2>Other</h2>
+          <div class="accordion">
+              <div class="js-accordion">
+                <h3 class="subtle-link js-accordion-expand">Languages</h3>
+                <ul class="clearfix">
+                    <li>
+                      <div class="stat">
+                        <div class="stat-title">English</div>
+                        <div class="stat-locations">23 <span class="no-mobile">locations</span></div>
+                      </div>
+                      <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                        <span class="progress" style="width: 100%;"></span>
+                        <span class="js-bubble-content">This language spoken in 100% of fully reporting locations in Idaho</span>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="stat">
+                        <div class="stat-title">Spanish</div>
+                        <div class="stat-locations">17 <span class="no-mobile">locations</span></div>
+                      </div>
+                      <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                        <span class="progress" style="width: 73%;"></span>
+                        <span class="js-bubble-content">This language spoken in 73% of fully reporting locations in Idaho</span>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="stat">
+                        <div class="stat-title">Sign language</div>
+                        <div class="stat-locations">2 <span class="no-mobile">locations</span></div>
+                      </div>
+                      <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                        <span class="progress" style="width: 8%;"></span>
+                        <span class="js-bubble-content">This language spoken in 8% of fully reporting locations in Idaho</span>
+                      </div>
+                    </li>
+                </ul>
+              </div>
+
+              <div class="js-accordion">
+                <h3 class="subtle-link js-accordion-expand">Populations Served</h3>
+                <ul class="clearfix">
+                    <li>
+                      <div class="stat">
+                        <div class="stat-title">Families</div>
+                        <div class="stat-locations">9 <span class="no-mobile">locations</span></div>
+                      </div>
+                      <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                        <span class="progress" style="width: 39%;"></span>
+                        <span class="js-bubble-content">This demographic is served in 39% of fully reporting locations in Idaho</span>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="stat">
+                        <div class="stat-title">Individuals</div>
+                        <div class="stat-locations">9 <span class="no-mobile">locations</span></div>
+                      </div>
+                      <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                        <span class="progress" style="width: 39%;"></span>
+                        <span class="js-bubble-content">This demographic is served in 39% of fully reporting locations in Idaho</span>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="stat">
+                        <div class="stat-title">Adult Male (victim of domestic violence)</div>
+                        <div class="stat-locations">9 <span class="no-mobile">locations</span></div>
+                      </div>
+                      <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                        <span class="progress" style="width: 39%;"></span>
+                        <span class="js-bubble-content">This demographic is served in 39% of fully reporting locations in Idaho</span>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="stat">
+                        <div class="stat-title">Women</div>
+                        <div class="stat-locations">9 <span class="no-mobile">locations</span></div>
+                      </div>
+                      <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                        <span class="progress" style="width: 39%;"></span>
+                        <span class="js-bubble-content">This demographic is served in 39% of fully reporting locations in Idaho</span>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="stat">
+                        <div class="stat-title">Adult Male (victim of sexual assault)</div>
+                        <div class="stat-locations">8 <span class="no-mobile">locations</span></div>
+                      </div>
+                      <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                        <span class="progress" style="width: 34%;"></span>
+                        <span class="js-bubble-content">This demographic is served in 34% of fully reporting locations in Idaho</span>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="stat">
+                        <div class="stat-title">Teens</div>
+                        <div class="stat-locations">8 <span class="no-mobile">locations</span></div>
+                      </div>
+                      <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                        <span class="progress" style="width: 34%;"></span>
+                        <span class="js-bubble-content">This demographic is served in 34% of fully reporting locations in Idaho</span>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="stat">
+                        <div class="stat-title">Elderly</div>
+                        <div class="stat-locations">8 <span class="no-mobile">locations</span></div>
+                      </div>
+                      <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                        <span class="progress" style="width: 34%;"></span>
+                        <span class="js-bubble-content">This demographic is served in 34% of fully reporting locations in Idaho</span>
+                      </div>
+                    </li>
+                </ul>
+              </div>
+
+              <div class="js-accordion">
+                <h3 class="subtle-link js-accordion-expand">Distinctive Populations</h3>
+                <ul class="clearfix">
+                    <li>
+                      <div class="stat">
+                        <div class="stat-title">Rural</div>
+                        <div class="stat-locations">7 <span class="no-mobile">locations</span></div>
+                      </div>
+                      <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                        <span class="progress" style="width: 30%;"></span>
+                        <span class="js-bubble-content">This population is served in 30% of fully reporting locations in Idaho</span>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="stat">
+                        <div class="stat-title">Immigrant</div>
+                        <div class="stat-locations">7 <span class="no-mobile">locations</span></div>
+                      </div>
+                      <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                        <span class="progress" style="width: 30%;"></span>
+                        <span class="js-bubble-content">This population is served in 30% of fully reporting locations in Idaho</span>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="stat">
+                        <div class="stat-title">Deaf</div>
+                        <div class="stat-locations">5 <span class="no-mobile">locations</span></div>
+                      </div>
+                      <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                        <span class="progress" style="width: 21%;"></span>
+                        <span class="js-bubble-content">This population is served in 21% of fully reporting locations in Idaho</span>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="stat">
+                        <div class="stat-title">Trafficked persons</div>
+                        <div class="stat-locations">5 <span class="no-mobile">locations</span></div>
+                      </div>
+                      <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                        <span class="progress" style="width: 21%;"></span>
+                        <span class="js-bubble-content">This population is served in 21% of fully reporting locations in Idaho</span>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="stat">
+                        <div class="stat-title">Developmentally disabled</div>
+                        <div class="stat-locations">5 <span class="no-mobile">locations</span></div>
+                      </div>
+                      <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                        <span class="progress" style="width: 21%;"></span>
+                        <span class="js-bubble-content">This population is served in 21% of fully reporting locations in Idaho</span>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="stat">
+                        <div class="stat-title">Military</div>
+                        <div class="stat-locations">5 <span class="no-mobile">locations</span></div>
+                      </div>
+                      <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                        <span class="progress" style="width: 21%;"></span>
+                        <span class="js-bubble-content">This population is served in 21% of fully reporting locations in Idaho</span>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="stat">
+                        <div class="stat-title">Disabled</div>
+                        <div class="stat-locations">5 <span class="no-mobile">locations</span></div>
+                      </div>
+                      <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                        <span class="progress" style="width: 21%;"></span>
+                        <span class="js-bubble-content">This population is served in 21% of fully reporting locations in Idaho</span>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="stat">
+                        <div class="stat-title">LGBTQ</div>
+                        <div class="stat-locations">5 <span class="no-mobile">locations</span></div>
+                      </div>
+                      <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                        <span class="progress" style="width: 21%;"></span>
+                        <span class="js-bubble-content">This population is served in 21% of fully reporting locations in Idaho</span>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="stat">
+                        <div class="stat-title">Prostituted persons</div>
+                        <div class="stat-locations">4 <span class="no-mobile">locations</span></div>
+                      </div>
+                      <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                        <span class="progress" style="width: 17%;"></span>
+                        <span class="js-bubble-content">This population is served in 17% of fully reporting locations in Idaho</span>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="stat">
+                        <div class="stat-title">Trans women/men</div>
+                        <div class="stat-locations">4 <span class="no-mobile">locations</span></div>
+                      </div>
+                      <div class="bar_mortice mortice_tiny_mortice stat-bar js-bubble">
+                        <span class="progress" style="width: 17%;"></span>
+                        <span class="js-bubble-content">This population is served in 17% of fully reporting locations in Idaho</span>
+                      </div>
+                    </li>
+                </ul>
+              </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="right-rail">
+      <div class="rail-cont">
+        <div class="ad desktop-only">
+  <div data-gpt="/35461067/right-rail-1-300x250" id="div-gpt-ad-1433885341805-2" style="width: 300px; height: 250px; margin: 0 auto;"></div>
+</div>
+      </div>
+
+      <div class="rail-cont">
+        <div class="email-signup-container">
+	<div class="email-signup">
+		<h2>Receive new and helpful articles weekly. Sign up here.</h2>
+		<div class="message"></div>
+		<form accept-charset="UTF-8" action="/emails" class="simple_form email-form" data-remote="true" id="new_email" method="post" novalidate="novalidate"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+			<input id="email_email" name="email[email]" placeholder="Enter a safe email" type="text" />
+			<input type="submit" value="Submit" name="submit" class="btn btn3 btn-size">
+</form>	</div>
+</div>
+      </div>
+
+      <div class="rail-cont recent-blog-posts">
+        <span class="rail-head"><h4>Most Recent Articles</h4></span>
+<ul>
+    <li>
+      <div class="media-block media-block--horizontal-basic-bordered">
+  <a alt="Ask Amanda" class="media-block__image-wrapper" href="/domestic-violence-articles-information/ask-amanda"><img alt="W1siziisijiwmtyvmdmvmdgvohlhynewmnc2cf9yc3pfyxnrx2ftyw5kyv9pbwfnzs5qcgcixsxbinailcj0ahvtyiisijkwedcwiyjdxq?sha=04d8c177b9966178" class="media-block__image" src="/media/W1siZiIsIjIwMTYvMDMvMDgvOHlhYnEwMnc2cF9yc3pfYXNrX2FtYW5kYV9pbWFnZS5qcGciXSxbInAiLCJ0aHVtYiIsIjkweDcwIyJdXQ?sha=04d8c177b9966178" /></a>
+  <div class="media-block__body">
+    <h6 class="media-block__title">
+      <a class="media-block__title-link" href="/domestic-violence-articles-information/ask-amanda" title="Ask Amanda">Ask Amanda</a>
+    </h6>
+  </div>
+</div>
+    </li>
+    <li>
+      <div class="media-block media-block--horizontal-basic-bordered">
+  <a alt="Domestic Violence in Affluent Marriages" class="media-block__image-wrapper" href="/domestic-violence-articles-information/domestic-violence-in-affluent-marriages"><img alt="W1siziisijiwmtyvmdmvmdgvnjbsowpkztr3cv9uaglua3n0b2nrughvdg9zxzg5nzkxnja5lmpwzyjdlfsiccisinrodw1iiiwiotb4nzajil1d?sha=bc53b0b78c5e934d" class="media-block__image" src="/media/W1siZiIsIjIwMTYvMDMvMDgvNjBsOWpkZTR3cV9UaGlua3N0b2NrUGhvdG9zXzg5NzkxNjA5LmpwZyJdLFsicCIsInRodW1iIiwiOTB4NzAjIl1d?sha=bc53b0b78c5e934d" /></a>
+  <div class="media-block__body">
+    <h6 class="media-block__title">
+      <a class="media-block__title-link" href="/domestic-violence-articles-information/domestic-violence-in-affluent-marriages" title="Domestic Violence in Affluent Marriages">Domestic Violence in Affluent Marriages</a>
+    </h6>
+  </div>
+</div>
+    </li>
+    <li>
+      <div class="media-block media-block--horizontal-basic-bordered">
+  <a alt="Do You Feel Trapped by Your Faith?" class="media-block__image-wrapper" href="/domestic-violence-articles-information/do-you-feel-trapped-by-your-faith"><img alt="W1siziisijiwmtyvmdmvmdevnhe4etr4ejm0al9uaglua3n0b2nrughvdg9zxzq4nzc3nzy4mc5qcgcixsxbinailcj0ahvtyiisijkwedcwiyjdxq?sha=31052ec2cf741726" class="media-block__image" src="/media/W1siZiIsIjIwMTYvMDMvMDEvNHE4eTR4ejM0al9UaGlua3N0b2NrUGhvdG9zXzQ4Nzc3NzY4MC5qcGciXSxbInAiLCJ0aHVtYiIsIjkweDcwIyJdXQ?sha=31052ec2cf741726" /></a>
+  <div class="media-block__body">
+    <h6 class="media-block__title">
+      <a class="media-block__title-link" href="/domestic-violence-articles-information/do-you-feel-trapped-by-your-faith" title="Do You Feel Trapped by Your Faith?">Do You Feel Trapped by Your Faith?</a>
+    </h6>
+  </div>
+</div>
+    </li>
+    <li>
+      <div class="media-block media-block--horizontal-basic-bordered">
+  <a alt="Quiz:&amp;nbsp;The Trouble with Leaving" class="media-block__image-wrapper" href="/domestic-violence-articles-information/quiz-nbsp-the-trouble-with-leaving"><img alt="W1siziisijiwmtyvmdivmjcvnjrxzgw3axnqy19uaglua3n0b2nrughvdg9zxzuwntiwodkzni5qcgcixsxbinailcj0ahvtyiisijkwedcwiyjdxq?sha=90679cb0fe5d89c7" class="media-block__image" src="/media/W1siZiIsIjIwMTYvMDIvMjcvNjRxZGw3aXNqY19UaGlua3N0b2NrUGhvdG9zXzUwNTIwODkzNi5qcGciXSxbInAiLCJ0aHVtYiIsIjkweDcwIyJdXQ?sha=90679cb0fe5d89c7" /></a>
+  <div class="media-block__body">
+    <h6 class="media-block__title">
+      <a class="media-block__title-link" href="/domestic-violence-articles-information/quiz-nbsp-the-trouble-with-leaving" title="Quiz:&amp;nbsp;The Trouble with Leaving">Quiz:&amp;nbsp;The Trouble with Leaving</a>
+    </h6>
+  </div>
+</div>
+    </li>
+    <li>
+      <div class="media-block media-block--horizontal-basic-bordered">
+  <a alt="A New Way to Teach Domestic Violence Awareness" class="media-block__image-wrapper" href="/domestic-violence-articles-information/a-new-way-to-teach-domestic-violence-awareness"><img alt="W1siziisijiwmtyvmdivmjcvnxptzwxsajhucv9eu0nfmdezns5kuecixsxbinailcj0ahvtyiisijkwedcwiyjdxq?sha=a83e2b14cade8c18" class="media-block__image" src="/media/W1siZiIsIjIwMTYvMDIvMjcvNXptZWxsajhucV9EU0NfMDEzNS5KUEciXSxbInAiLCJ0aHVtYiIsIjkweDcwIyJdXQ?sha=a83e2b14cade8c18" /></a>
+  <div class="media-block__body">
+    <h6 class="media-block__title">
+      <a class="media-block__title-link" href="/domestic-violence-articles-information/a-new-way-to-teach-domestic-violence-awareness" title="A New Way to Teach Domestic Violence Awareness">A New Way to Teach Domestic Violence Awareness</a>
+    </h6>
+  </div>
+</div>
+    </li>
+</ul>
+<a class="view-all" href="/violence-abuse">view all</a>
+
+      </div>
+
+      <div class="rail-cont">
+        <div class="ad desktop-only">
+  <div data-gpt="/35461067/right-rail-2-300x250" id="div-gpt-ad-1433885341805-3" style="width: 300px; height: 250px; margin: 0 auto;"></div>
+</div>
+      </div>
+
+      <div class="rail-cont twitter-feed">
+        <span class="rail-head"><h4>Twitter Feed</h4></span>
+<span class="recent-post">"New list of books dealing with child custody issues: https://t.co/vwu7N2R0fQ. #DomesticViolenceBooks https://t.co/gAZNk1e6UE"</span>
+<a class="follow btn btn1 btn-size" href="https://twitter.com/domesticshelter" target="_new">
+  <i class="fa fa-twitter"></i> Follow @domesticshelters
+</a>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+          </div>
+        </article>
+        <footer>
+          <div class="ad mobile-only sticky-bottom-ad">
+	<div class="close-ad"><i class="fa fa-times"></i></div>
+  	<div data-gpt="/35461067/mobile-leaderboard-320x50" id="div-gpt-ad-1433885341805-1" style="width: 320px; height: 50px; margin: 0 auto;"></div>
+</div>
+          <div class='ad tablet-only sticky-bottom-ad'>
+	<div class="close-ad"><i class="fa fa-times"></i></div>
+	<div data-gpt="/35461067/tablet-content-728x90" id="div-gpt-ad-1433885341805-4" style="width: 728px; height: 90px; margin: 0 auto;"></div>
+</div>
+          <div class="content">
+            <div id="footer-tabs">
+              <div class="footer-slider">
+                <ul class="slides">
+                  <li class="clearfix">
+                    <div class="about-ds half">
+                      <h2 class="expand-js"><i class="fa fa-plus-circle"></i><i class="fa fa-minus-circle"></i>About Domestic Shelters</h2>
+                      <span class="expand-target">
+                        <p>
+                          We make finding the right shelter and information about domestic violence easier. Instead of searching the Internet, it is all right here. We’ve painstakingly verified information on shelters in LA to shelters in NY, and every domestic violence program in between. If you or a friend is suffering from physical abuse, emotional abuse, psychological abuse or verbal abuse, this free service can help. Select domestic violence programs based on location, service and language needs. Find 24-hour hotlines in your area, service listings, and helpful articles on domestic violence statistics, signs and cycles of abuse, housing services, emergency services, legal and financial services, support groups for women, children and families, and more.
+                        </p>
+                      </span>
+                    </div>
+                    <div class="faq half">
+                      <h2 class="expand-js"><i class="fa fa-plus-circle"></i><i class="fa fa-minus-circle"></i>Domestic Violence FAQs</h2>
+                      <span class="expand-target">
+                        <ul>
+                          <li>
+                            <a href="/domestic-violence-articles-information/faq/domestic-violence-statistics">Domestic Violence Statistics</a>
+                          </li>
+                          <li>
+                            <a href="/domestic-violence-articles-information/faq/how-to-get-a-personal-protection-order">How to Get a Personal Protection Order</a>
+                          </li>
+                          <li>
+                            <a href="/domestic-violence-articles-information/faq/profile-of-an-abuser">Profile of an Abuser</a>
+                          </li>
+                          <li>
+                            <a href="/domestic-violence-articles-information/faq/a-deadly-cycle">A Deadly Cycle</a>
+                          </li>
+                          <li>
+                            <a href="/domestic-violence-articles-information/faq/abusive-red-flags-everyone-should-know">Abusive Red Flags Everyone Should Know</a>
+                          </li>
+                          <li>
+                            <a href="/domestic-violence-articles-information/faq/what-is-domestic-violence">What is Domestic Violence?</a>
+                          </li>
+                          <li>
+                            <a href="/domestic-violence-articles-information/faq/signs-of-a-violent-relationship">Signs of a Violent Relationship</a>
+                          </li>
+                          <li>
+                            <a href="/domestic-violence-articles-information/faq/when-it-s-time-to-go-part-i">When It&#39;s Time to Go: Part I</a>
+                          </li>
+                        </ul>
+                        <p>Have more questions? <a href="/frequently-asked-questions/faq">Visit our FAQ</a> .</p>
+                      </span>
+                    </div>
+                  </li>
+                  <li class="footer-states">
+                    <h2 class="expand-js"><i class="fa fa-plus-circle"></i><i class="fa fa-minus-circle"></i>Domestic Shelters by State</h2>
+                    <span class="expand-target">
+                      <div class="column-list column-list--5x2 ">
+  <ul class="column-list__column">
+        <li class="column-list__item">
+          <a href="/ab/alberta-domestic-violence-help-statistics" title="Alberta Domestic Shelters">Alberta</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/ak/alaska-domestic-violence-help-statistics" title="Alaska Domestic Shelters">Alaska</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/al/alabama-domestic-violence-help-statistics" title="Alabama Domestic Shelters">Alabama</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/ar/arkansas-domestic-violence-help-statistics" title="Arkansas Domestic Shelters">Arkansas</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/az/arizona-domestic-violence-help-statistics" title="Arizona Domestic Shelters">Arizona</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/bc/british-columbia-domestic-violence-help-statistics" title="British Columbia Domestic Shelters">British Columbia</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/ca/california-domestic-violence-help-statistics" title="California Domestic Shelters">California</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/co/colorado-domestic-violence-help-statistics" title="Colorado Domestic Shelters">Colorado</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/ct/connecticut-domestic-violence-help-statistics" title="Connecticut Domestic Shelters">Connecticut</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/dc/district-of-columbia-domestic-violence-help-statistics" title="District of Columbia Domestic Shelters">District of Columbia</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/de/delaware-domestic-violence-help-statistics" title="Delaware Domestic Shelters">Delaware</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/fl/florida-domestic-violence-help-statistics" title="Florida Domestic Shelters">Florida</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/ga/georgia-domestic-violence-help-statistics" title="Georgia Domestic Shelters">Georgia</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/hi/hawaii-domestic-violence-help-statistics" title="Hawaii Domestic Shelters">Hawaii</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/ia/iowa-domestic-violence-help-statistics" title="Iowa Domestic Shelters">Iowa</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/id/idaho-domestic-violence-help-statistics" title="Idaho Domestic Shelters">Idaho</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/il/illinois-domestic-violence-help-statistics" title="Illinois Domestic Shelters">Illinois</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/in/indiana-domestic-violence-help-statistics" title="Indiana Domestic Shelters">Indiana</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/ks/kansas-domestic-violence-help-statistics" title="Kansas Domestic Shelters">Kansas</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/ky/kentucky-domestic-violence-help-statistics" title="Kentucky Domestic Shelters">Kentucky</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/la/louisiana-domestic-violence-help-statistics" title="Louisiana Domestic Shelters">Louisiana</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/ma/massachusetts-domestic-violence-help-statistics" title="Massachusetts Domestic Shelters">Massachusetts</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/mb/manitoba-domestic-violence-help-statistics" title="Manitoba Domestic Shelters">Manitoba</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/md/maryland-domestic-violence-help-statistics" title="Maryland Domestic Shelters">Maryland</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/me/maine-domestic-violence-help-statistics" title="Maine Domestic Shelters">Maine</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/mi/michigan-domestic-violence-help-statistics" title="Michigan Domestic Shelters">Michigan</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/mn/minnesota-domestic-violence-help-statistics" title="Minnesota Domestic Shelters">Minnesota</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/mo/missouri-domestic-violence-help-statistics" title="Missouri Domestic Shelters">Missouri</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/ms/mississippi-domestic-violence-help-statistics" title="Mississippi Domestic Shelters">Mississippi</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/mt/montana-domestic-violence-help-statistics" title="Montana Domestic Shelters">Montana</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/nb/new-brunswick-domestic-violence-help-statistics" title="New Brunswick Domestic Shelters">New Brunswick</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/nc/north-carolina-domestic-violence-help-statistics" title="North Carolina Domestic Shelters">North Carolina</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/nd/north-dakota-domestic-violence-help-statistics" title="North Dakota Domestic Shelters">North Dakota</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/ne/nebraska-domestic-violence-help-statistics" title="Nebraska Domestic Shelters">Nebraska</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/nh/new-hampshire-domestic-violence-help-statistics" title="New Hampshire Domestic Shelters">New Hampshire</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/nj/new-jersey-domestic-violence-help-statistics" title="New Jersey Domestic Shelters">New Jersey</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/nl/newfoundland-domestic-violence-help-statistics" title="Newfoundland Domestic Shelters">Newfoundland</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/nm/new-mexico-domestic-violence-help-statistics" title="New Mexico Domestic Shelters">New Mexico</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/ns/nova-scotia-domestic-violence-help-statistics" title="Nova Scotia Domestic Shelters">Nova Scotia</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/nt/northwest-territories-domestic-violence-help-statistics" title="Northwest Territories Domestic Shelters">Northwest Territories</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/nu/nunavut-domestic-violence-help-statistics" title="Nunavut Domestic Shelters">Nunavut</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/nv/nevada-domestic-violence-help-statistics" title="Nevada Domestic Shelters">Nevada</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/ny/new-york-domestic-violence-help-statistics" title="New York Domestic Shelters">New York</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/oh/ohio-domestic-violence-help-statistics" title="Ohio Domestic Shelters">Ohio</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/ok/oklahoma-domestic-violence-help-statistics" title="Oklahoma Domestic Shelters">Oklahoma</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/on/ontario-domestic-violence-help-statistics" title="Ontario Domestic Shelters">Ontario</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/or/oregon-domestic-violence-help-statistics" title="Oregon Domestic Shelters">Oregon</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/pa/pennsylvania-domestic-violence-help-statistics" title="Pennsylvania Domestic Shelters">Pennsylvania</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/pe/prince-edward-domestic-violence-help-statistics" title="Prince Edward Domestic Shelters">Prince Edward</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/pr/puerto-rico-domestic-violence-help-statistics" title="Puerto Rico Domestic Shelters">Puerto Rico</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/qc/quebec-domestic-violence-help-statistics" title="Quebec Domestic Shelters">Quebec</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/ri/rhode-island-domestic-violence-help-statistics" title="Rhode Island Domestic Shelters">Rhode Island</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/sc/south-carolina-domestic-violence-help-statistics" title="South Carolina Domestic Shelters">South Carolina</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/sd/south-dakota-domestic-violence-help-statistics" title="South Dakota Domestic Shelters">South Dakota</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/sk/saskatchewan-domestic-violence-help-statistics" title="Saskatchewan Domestic Shelters">Saskatchewan</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/tn/tennessee-domestic-violence-help-statistics" title="Tennessee Domestic Shelters">Tennessee</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/tx/texas-domestic-violence-help-statistics" title="Texas Domestic Shelters">Texas</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/ut/utah-domestic-violence-help-statistics" title="Utah Domestic Shelters">Utah</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/va/virginia-domestic-violence-help-statistics" title="Virginia Domestic Shelters">Virginia</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/vi/virgin-islands-domestic-violence-help-statistics" title="Virgin Islands Domestic Shelters">Virgin Islands</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/vt/vermont-domestic-violence-help-statistics" title="Vermont Domestic Shelters">Vermont</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/wa/washington-domestic-violence-help-statistics" title="Washington Domestic Shelters">Washington</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/wi/wisconsin-domestic-violence-help-statistics" title="Wisconsin Domestic Shelters">Wisconsin</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/wv/west-virginia-domestic-violence-help-statistics" title="West Virginia Domestic Shelters">West Virginia</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/wy/wyoming-domestic-violence-help-statistics" title="Wyoming Domestic Shelters">Wyoming</a>
+        </li>
+        <li class="column-list__item">
+          <a href="/yt/yukon-domestic-violence-help-statistics" title="Yukon Domestic Shelters">Yukon</a>
+        </li>
+  </ul>
+</div>
+                    </span>
+                  </li>
+                </ul>
+                <ul class="flex-control-nav no-mobile">
+                  <li>
+                    <i class="fa fa-circle"></i>
+                  </li>
+                  <li>
+                    <i class="fa fa-circle"></i>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="content">
+            <div class="footer-links clearfix">
+              <ul class="link-menu-inline link-menu-inline--upped _pull-left">
+                <li class="link-menu-inline__item"><a class="link-menu-inline__link" href="/about">About</a></li>
+                <li class="link-menu-inline__item"><a class="link-menu-inline__link" href="/news">News</a></li>
+                <li class="link-menu-inline__item"><a class="link-menu-inline__link" href="/contact">Contact</a></li>
+                <li class="link-menu-inline__item"><a class="link-menu-inline__link" href="/advertise">Advertise</a></li>
+                <li class="link-menu-inline__item"><a class="link-menu-inline__link" href="/locations/new/claim">Add/Claim Location</a></li>
+              </ul>
+              <div class="social _pull-right">
+                <!-- AddThis Follow BEGIN -->
+                <div class="addthis_toolbox addthis_32x32_style addthis_default_style">
+                <a class="addthis_button_facebook_follow" addthis:userid="domesticshelters"></a>
+                <a class="addthis_button_twitter_follow" addthis:userid="domesticshelter"></a>
+                <a class="addthis_button_google_follow" addthis:userid="u/0/100386842807368306127"></a>
+                <a class="addthis_button_pinterest_follow" addthis:userid="domesticshelter"></a>
+                <a class="addthis_button_instagram_follow" addthis:userid="domesticshelters"></a>
+                <a class="addthis_button_rss_follow" addthis:userid="https://www.domesticshelters.org/domestic-violence-articles-information/feed"></a>
+                </div>
+                <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-537fda1d7162ee8f" async="async"></script>
+                <!-- AddThis Follow END -->
+
+                <!--<a href="https://www.fb.com/domesticshelters"><i class="fa fa-facebook"></i></a>
+                <a href="https://twitter.com/domesticshelter"><i class="fa fa-twitter"></i></a>
+                <a href="http://www.pinterest.com/domesticshelter/"><i class="fa fa-pinterest"></i></a>
+                <a href="https://www.linkedin.com/company/domesticshetlers-org"><i class="fa fa-linkedin"></i></a>
+                <a href="https://plus.google.com/+DomesticsheltersOrgsite/about"><i class="fa fa-google-plus"></i></a>-->
+              </div>
+            </div>
+          </div>
+          <div class="content">
+            <div class="fine-print">
+              <p class="copyright">
+                Copyright &copy; 2016 Theresa's Fund, Inc. , an Arizona 501(c)3. All rights reserved<br>
+                <a href="/privacy-policy">Privacy Policy</a> | <a href="/terms-of-use">Terms of Use</a>
+              </p>
+            </div>
+          </div>
+
+        </footer>
+    </div>
+  </div>
+
+
+  <script src="https://maps.googleapis.com/maps/api/js?libraries=places,visualization"></script>
+  <script src="/assets/application-61a0c6f2a30944b58c02ca8d328846a5.js"></script>
+  <!--[if IE 9]>
+<script src="/assets/ie9-3fd638a1e0a73749f07a8fec2e8833e3.js"></script>
+  <![endif]-->
+  
+
+</body>
+</html>
